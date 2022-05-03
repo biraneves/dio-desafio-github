@@ -6,8 +6,6 @@
 \origin unavailable
 \textclass article
 \begin_preamble
-\usepackage[brazil]{babel}
-
 \usepackage{subfig}
 
 \usepackage{tikz}
@@ -17,8 +15,8 @@
 \renewcommand{\arraystretch}{1.2}
 
 \newtheorem{condition}{Condição}
-\newtheorem{class}{Aula}
 \end_preamble
+\options Brazil
 \use_default_options true
 \begin_modules
 theorems-ams-bytype
@@ -125,6 +123,232 @@ O que é internet
 
 \begin_layout Section
 Introdução ao tema
+\end_layout
+
+\begin_layout Subsection
+História
+\end_layout
+
+\begin_layout Itemize
+1969: nos EUA, surge a Arpanet, desenvolvida pelo Departamento de Defesa.
+ Contexto: mundo em Guerra Fria.
+ Função da Arpanet: interligar alguns laboratórios.
+ Nesse ano, ocorreu o envio do primeiro e-mail.
+\end_layout
+
+\begin_layout Itemize
+1982: acesso por universidades.
+ A rede passa a incluir instituições na Holanda, Dinamarca e Suécia.
+\end_layout
+
+\begin_layout Itemize
+1987: ano da liberação da internet para uso comercial por empresas nos EUA.
+\end_layout
+
+\begin_layout Itemize
+1992: é criada a 
+\emph on
+World Wide Web
+\emph default
+ no CERN – Organização Europeia para a Pesquisa Nuclear.
+ Objetivo: dados acessíveis a qualquer pessoa com acesso à internet.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+No Brasil
+\end_layout
+
+\begin_layout Itemize
+1988: acesso disponível para universidades via FAPESP (Fundação de Amparo
+ à Pesquisa do Estado de São Paulo), UFRJ (Universidade Federal do Rio de
+ Janeiro) e LNCC (Laboratório Nacional de Computação Científica).
+\end_layout
+
+\begin_layout Itemize
+1994: início do uso comercial via EMBRATEL (Empresa Brasileira de Telecomunicaçõ
+es).
+ Conexão discada.
+\end_layout
+
+\begin_layout Itemize
+2000: oferta de banda larga.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Exercícios
+\end_layout
+
+\begin_layout Exercise
+Qual foi o primeiro domínio criado?
+\end_layout
+
+\begin_layout Exercise
+Segundo artigo publicado no 
+\emph on
+TechCrunch
+\emph default
+, o primeiro domínio 
+\series bold
+criado
+\series default
+ foi o 
+\emph on
+nordu.net
+\emph default
+ (em janeiro de 1985), usado para servir como identificado do primeiro servidor
+ raiz, 
+\emph on
+nic.nordu.net
+\emph default
+.
+ Contudo, o primeiro domínio 
+\series bold
+registrado
+\series default
+ foi o 
+\emph on
+symbolics.com
+\emph default
+, em 15 de março de 1985, pela extinta fabricante de computadores Symbolics.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Exercise
+Qual foi o primeiro 
+\emph on
+blog
+\emph default
+ criado?
+\end_layout
+
+\begin_layout Exercise
+De acordo com o 
+\emph on
+site
+\emph default
+ 
+\emph on
+Theme Island
+\emph default
+, o primeiro 
+\emph on
+blog
+\emph default
+ criado foi o 
+\emph on
+links.net
+\emph default
+, de 1994, pelo então estudante Justin Hall.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Exercise
+Qual foi a primeira compra feita pela internet?
+\end_layout
+
+\begin_layout Exercise
+Segundo o 
+\emph on
+site
+\emph default
+ 
+\emph on
+Smithsonian Magazine
+\emph default
+, a primeira transação 
+\emph on
+on-line
+\emph default
+ legítima foi a compra de um CD do Sting, 
+\emph on
+Ten summoner's tales
+\emph default
+, em 11 de agosto de 1994, de acordo com uma reportagem no 
+\emph on
+The New York Times
+\emph default
+.
+ Há outras compras anteriores a essa, remontando, inclusive, à antiga Arpanet,
+ mas não foram negócios legítimos (inclusive, alguns ilegais).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Exercise
+Qual o 
+\emph on
+site
+\emph default
+ mais antigo em atividade?
+\end_layout
+
+\begin_layout Exercise
+Segundo o 
+\emph on
+site
+\emph default
+ 
+\emph on
+Interesting Engineering
+\emph default
+, o mais antigo 
+\emph on
+site
+\emph default
+ ainda em atividade é o da empresa 
+\emph on
+Interrupt Technology Corporation
+\emph default
+, 
+\emph on
+ITCorp
+\emph default
+ (
+\begin_inset CommandInset href
+LatexCommand href
+target "http://itcorp.com"
+
+\end_inset
+
+), registrado em 18 de setembro de 1986.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -265,10 +489,6 @@ Principais LPs
 
 \begin_layout Section
 Diversos termos comuns
-\end_layout
-
-\begin_layout Standard
-
 \end_layout
 
 \end_body
