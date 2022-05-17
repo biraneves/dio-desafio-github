@@ -1,19 +1,14 @@
 import './App.css';
+import Button from './Button';
 
 function sum(a, b) {
-  return a + b;
-}
-
-function primeiroJSX() {
-  return (
-    <h1>Ubirajara Neves - {sum(2, 3)}</h1>
-  );
+  alert(a + b);
 }
 
 function App() {
   return (
     <div className="App">
-      {primeiroJSX()}
+      <Button name="Botão" onClick={() => sum(10, 20)} />
     </div>
   );
 }
